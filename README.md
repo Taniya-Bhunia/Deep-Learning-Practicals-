@@ -61,18 +61,6 @@ Deep-Learning-Practicals/
 
 All 10 practical implementations are organized in a single Jupyter Notebook (`.ipynb`) file.
 
-## How to Run the Practicals
-
-These practicals are implemented in Google Colab.
-
-1. Clone or download this repository from GitHub.
-2. Open [Google Colab](https://colab.research.google.com/).
-3. Select **File → Upload notebook**.
-4. Upload the `.ipynb` notebook from this repository.
-5. Run the code cells in sequence.
-6. Install any required libraries if they are not already available.
-
-**Note:** Some datasets are downloaded automatically when their respective practicals are executed. An active internet connection may be required.
 
 ## Learning Objectives
 
